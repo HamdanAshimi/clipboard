@@ -1,4 +1,5 @@
 import Access from "./components/Access";
+import BottomCta from "./components/BottomCta";
 import Features from "./components/Features";
 import Hero from "./components/hero";
 import References from "./components/References";
@@ -14,6 +15,7 @@ function App() {
       <Access />
       <Supercharge />
       <References />
+      <BottomCta />
     </>
   );
 }
