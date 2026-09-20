@@ -14,7 +14,7 @@
 }
 
 body {
-  background-image: url("../src/assets/images/bg-header-desktop.png");
+  background-image: url("./assets/images/bg-header-desktop.png");
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -43,7 +43,7 @@ body {
 
 @media (max-width: 576px) {
   body {
-    background-image: url("../src/assets/images/bg-header-mobile.png");
+    background-image: url("./assets/images/bg-header-mobile.png");
   }
 }
 
